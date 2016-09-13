@@ -1,0 +1,21 @@
+Welcome to Bomberman! We (Jacob Chung and Christian Stoltzfus) are pleased to present our final Computer Science project as a (working) multiplayer game. 
+
+It's pretty basic, but here are the instructions:
+
+Player 1 (top left, blue):
+Up arrow - Move up
+Down arrow - Move down
+Left arrow - Move left
+Right arrow - Move right
+Spacebar - Place bomb (places in front of you)
+
+Player 2 (bottom right, red):
+W - Move up
+S - Move down
+A - Move left
+D - Move right
+Q - Place bomb (again, in front of you)
+
+
+Either player may press U at any time to reset the game (no trolling). 
+
